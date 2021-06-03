@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two strings to a bow; or, The cunning archer being a pleasant new ditty of a souldier, that had two lasses at one time that dearly loved him, and how he requited their kindness this lusty souldier having been ten years in Scotland, and near seen a London lass, resolv'd to try, how much they priz'd virginity. He laies close siege to two, and stormes there forts, but yet to marry scorns. To an excellent Scotish tune, call'd Gilderoy.</title>
+            <author>M. P.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27774</idno><idno type="EEBO-CITATION">99827947</idno>
+  <idno type="VID">198098</idno>
+  <idno type="EEBO-PROQUEST">2248495200</idno>
+  
+            <idno type="STC">Wing P84A</idno>
+            <idno type="PROQUEST">99827947</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827947e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27774)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198098)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21232:262-263)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two strings to a bow; or, The cunning archer being a pleasant new ditty of a souldier, that had two lasses at one time that dearly loved him, and how he requited their kindness this lusty souldier having been ten years in Scotland, and near seen a London lass, resolv'd to try, how much they priz'd virginity. He laies close siege to two, and stormes there forts, but yet to marry scorns. To an excellent Scotish tune, call'd Gilderoy.</title>
+                  <author>M. P.</author>
+               </titleStmt>
+               <extent>2 sheets ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed, for Charles Tyus, on London-bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[ca. 1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Good [illegible] lads and lasses all,".</note>
+                  <note>By M.P.</note>
+                  <note>Wing estimates 1659-1664 as publication date.</note>
+                  <note>In two parts; woodcuts at head of each part.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:198098:1"/>
+            <head>Two strings to a Bow; or, The cunning Archer, Being A pleasant new ditty of a Souldier, that had two Lasses at one time That dearly loved him, and how he requited their kindness</head>
+            <head type="sub">
+               <q>
+                  <lg>
+                     <l>This lusty Souldier having been</l>
+                     <l>Ten years in Scotland, and near seen</l>
+                     <l>A London Lass, resolv'd to try,</l>
+                     <l>How much they priz▪d Virginity.</l>
+                     <l>He laies close siege to two, and stormes</l>
+                     <l>There Forts, but yet to marry scorns.</l>
+                  </lg>
+               </q>
+            </head>
+            <opener>To an excellent Scotish Tune, call'd Gilderoy.</opener>
+            <p>
+               <figure>
+                  <figDesc>portait of a man</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>portrait of a woman</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>G<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> lads and lasses all,</l>
+               <l>in what I shall report,</l>
+               <l>Of Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s twain that loved dear,</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> S<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ier their consort.</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> La<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and blith t'was he,</l>
+               <l>and <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to love them both.</l>
+               <l>B<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>e the knot,</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> he was loth.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> y<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s this Souldier brave</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, b<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Arms.</l>
+               <l>V<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ur Noble Generall,</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>Cupids</hi> Charms.</l>
+               <l>Bu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>London</hi> L<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sses, thought to win,</l>
+               <l>and temp<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith their smiles.</l>
+               <l>Which sub<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly be a while receives.</l>
+               <l>at last them both beguiles.</l>
+            </lg>
+            <lg>
+               <l>The first was <hi>Mal.</hi> a bouncing Lass,</l>
+               <l>to whom he courteous was.</l>
+               <l>And lovingly did kiss and Court,</l>
+               <l>our mark what came to pass.</l>
+               <l>W<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> gain'd her tender heart,</l>
+               <l>And <hi>Cupid</hi>
+                  <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> had shot,</l>
+               <l>He scorn<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ully disdains her thoughts,</l>
+               <l>and swears he loves her not.</l>
+            </lg>
+            <lg>
+               <l>Then she her service leaves in hast,</l>
+               <l>a private life to live.</l>
+               <l>Because that to her Master she,</l>
+               <l>was loth offence to give,</l>
+               <l>And that be might with fréedome come,</l>
+               <l>to visit this his dear,</l>
+               <l>On whom she spent her money frée,</l>
+               <l>in Ale, and in good Chéet.</l>
+            </lg>
+            <lg>
+               <l>Thus she continued a while,</l>
+               <l>and he came oft unto her.</l>
+               <l>whose fight did please her wondrous well</l>
+               <l>the Souldier sure did do her.</l>
+               <l>But when her stock grew low and poor</l>
+               <l>his love it waxed cold.</l>
+               <l>There was no chain could hold him fast,</l>
+               <l>but onely that of <hi>Gold.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When thus she s<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w she sl<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghted was,</l>
+               <l>and could not <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ated the Game.</l>
+               <l>With heavy moan she did repine</l>
+               <l>and her hard fort<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne blame.</l>
+               <l>Whilst <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e with iovial<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ists did sing,</l>
+               <l>and did contrive it so.</l>
+               <l>That he had got another Lass,</l>
+               <l>and two strings to his Bow.</l>
+            </lg>
+            <div n="2" type="part">
+               <pb facs="tcp:198098:1"/>
+               <opener>The second Part, to the same Tune</opener>
+               <p>
+                  <figure>
+                     <figDesc>portrait of a man</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>portrait of a woman</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>HAving thus put his first lasse off,</l>
+                  <l>the second comes in play.</l>
+                  <l>The which was pretty <hi>Dorothy:</hi>
+                  </l>
+                  <l>who was both fine and gay.</l>
+                  <l>To whom he doth express his love,</l>
+                  <l>with amorous, Glances many:</l>
+                  <l>And swears that she shall be his wife</l>
+                  <l>if ever he have any.</l>
+               </lg>
+               <lg>
+                  <l>This did so pierce her tender heart</l>
+                  <l>with joy and great delight.</l>
+                  <l>That she her service proffer'd him,</l>
+                  <l>by day and the<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> by night:</l>
+                  <l>Which he most kindly doth accept,</l>
+                  <l>and void of dread or fear.</l>
+                  <l>He gets her in his Chamber close,</l>
+                  <l>one night, as you shall hear.</l>
+               </lg>
+               <lg>
+                  <l>In sober guise the Souldier goes:</l>
+                  <l>one night unto his bed.</l>
+                  <l>Where she must come in all the hast,</l>
+                  <l>to lose her Maiden-head.</l>
+                  <l>The people being all at rest,</l>
+                  <l>and every one asléep.</l>
+                  <l>The lasse goes to his Chamber straight,</l>
+                  <l>and to his bed does créep.</l>
+               </lg>
+               <lg>
+                  <l>He that in bloody Battels fought,</l>
+                  <l>and lay in Frost and cold,</l>
+                  <l>Enduring hardships plentifull,</l>
+                  <l>against his foes so bold.</l>
+                  <l>Can now on's bed surprize a Fort,</l>
+                  <l>which no man ere did enter</l>
+                  <l>The Lady and the Owner gives,</l>
+                  <l>it him for his adventure.</l>
+               </lg>
+               <lg>
+                  <l>Her Master and her Mistrisie both,</l>
+                  <l>about the break of day.</l>
+                  <l>Awaking, called for their Maid,</l>
+                  <l>but she no word did say,</l>
+                  <l>She was in bed with her delight,</l>
+                  <l>and sporting with her dear.</l>
+                  <l>Nor thinking that her Master call'd;</l>
+                  <l>love would not let her hear.</l>
+               </lg>
+               <lg>
+                  <l>Then up her Master gets in hast,</l>
+                  <l>to fi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d the poor lost shéep.</l>
+                  <l>And folded in the Souldiers Armes,</l>
+                  <l>he finde his Maid asleep.</l>
+                  <l>Then with one blow, upon her chéek</l>
+                  <l>he wakes her from <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er dear,</l>
+                  <l>And kicks the lassee out of doors.</l>
+                  <l>No Whores (quoth he) live here.</l>
+               </lg>
+               <lg>
+                  <l>When this black chance was once found out,</l>
+                  <l>the lasse she fain would marry.</l>
+                  <l>The Souldier be refuses quit,</l>
+                  <l>tells her he must be wary;</l>
+                  <l>But she perplext, doth urge him still,</l>
+                  <l>and begs the same with Tears.</l>
+                  <l>Qu<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th he, I am not in your debt,</l>
+                  <l>I paid you your arrears.</l>
+               </lg>
+               <lg>
+                  <l>Take heed you loving lasses.</l>
+                  <l>be warn'd by my report.</l>
+                  <l>Trust not a lusty Souldier,</l>
+                  <l>for hée'l soon take your Fort,</l>
+                  <l>And then you must turn chamber maids</l>
+                  <l>alas my chance is so.</l>
+                  <l>The Souldier he will shoot no more,</l>
+                  <l>h'as broke two strings to's bow <hi>Finis,</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed, for <hi>Charls Tyu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> on London-bridge</p>
+         </div>
+      </back>
+   </text>
+</TEI>
